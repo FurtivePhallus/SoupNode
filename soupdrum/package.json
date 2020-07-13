@@ -1,0 +1,9 @@
+{
+  "name": "soupdrum",
+  "version": "0.0.0",
+  "description": "soupdrum",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
